@@ -4,7 +4,7 @@
 30/3
 
 ### Project Title
-Bikeshare
+Bikesharing
 
 ### Description
 we use this project to compare between the three cities Chicago, New York City, and Washington, DC about riding bickes in the cities
