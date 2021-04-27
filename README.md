@@ -13,5 +13,5 @@ we use this project to compare between the three cities Chicago, New York City, 
 Include the files used
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://github.com/EmanNaser/pdsnd_github.git
 
