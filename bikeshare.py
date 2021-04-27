@@ -208,7 +208,7 @@ def display_raw_data(df):
         next = next + 5
         print(df.iloc[next:next+5])
 
-
+# the main function
 def main():
     while True:
         city, month, day = get_filters()
